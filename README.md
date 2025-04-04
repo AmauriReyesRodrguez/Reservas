@@ -1,2 +1,2 @@
 # Reservas
- Plataforma de sala adudiovidual
+ Plataforma de reservas
