@@ -1,2 +1,0 @@
-# Reservas
- Plataforma de reservas
